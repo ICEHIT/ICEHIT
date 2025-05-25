@@ -33,11 +33,12 @@ Soy un apasionado **Ingeniero en Automatización Industrial** y **Desarrollador 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Desarrollo Web
+### 🌐 Desarrollo Web & Backend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=api&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservicios-1572B6?style=for-the-badge&logo=microservices&logoColor=white)
 
 ### 🤖 Inteligencia Artificial
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
@@ -137,9 +138,13 @@ timeline
               : ANDROS LA SERNA & INGEMOTIONS
               : Mantenimiento Preventivo y Correctivo
     
-    2022-Presente : Especialista en Implementación AGV
-                  : ASTI (vía Zemsania)
-                  : Sistemas de Vehículos Autónomos
+    Jun-Sep 2022 : Especialista en Implementación AGV
+                 : ASTI (vía Zemsania)
+                 : Sistemas de Vehículos Autónomos
+    
+    Agosto 2024-Presente : Becario Desarrollador
+                         : NTT DATA
+                         : Desarrollo de Microservicios
 ```
 
 </div>
@@ -159,8 +164,14 @@ timeline
 </td>
 <td width="50%">
 
-#### 🤖 **Rol Actual (2022-Presente)**
-- **Especialista en Implementación AGV** en ASTI
+#### 🤖 **Rol Actual (Agosto 2024-Presente)**
+- **Becario Desarrollador de Microservicios** en NTT DATA
+- Desarrollo de **arquitecturas distribuidas**
+- **Microservicios** con tecnologías modernas
+- Aplicación de **metodologías ágiles**
+
+#### 🚀 **Experiencia Reciente (Jun-Sep 2022)**
+- **Técnico de Implementación AGV** en ASTI (vía Zemsania)
 - Despliegue de **sistemas de vehículos autónomos**
 - **Integración robótica** industrial
 - Soluciones de **automatización de vanguardia**
